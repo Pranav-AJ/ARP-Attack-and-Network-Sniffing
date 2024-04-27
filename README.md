@@ -30,28 +30,23 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+![image](https://github.com/Pranav-AJ/ARP-Attack-and-Network-Sniffing/assets/118904526/facb152e-d4b5-4939-b593-3a9f8ae17377)
 
 
- dsniff:
+ dsniff:In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 
-
-
-
-
-
-In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
-## OUTPUT:
-
-
-
-
-In Kali issue the following commands:
-sudo dsnifff
-## OUTPUT:
-
+ ## OUTPUT:
+![image](https://github.com/Pranav-AJ/ARP-Attack-and-Network-Sniffing/assets/118904526/7df1b1bd-186e-43e6-93c0-091ab8199c79)
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+
+## OUTPUT:
+![image](https://github.com/Pranav-AJ/ARP-Attack-and-Network-Sniffing/assets/118904526/a93ffeac-59d1-4472-b086-32701d25c817)
+
+
+
+
 
 
 ## RESULT:
